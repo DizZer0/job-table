@@ -1,0 +1,13 @@
+.upper__button-add {
+  color: white;
+  font-size: 36px;
+  cursor: pointer;
+  width: 200px;
+  list-style: none;
+  background: transparent;
+  border: 3px solid #65034F;
+  transition: .2s;
+}
+.upper__button-add:hover {
+  opacity: .8;
+}
