@@ -1,0 +1,10 @@
+.card__link {
+  margin: 0;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  grid-row: 2/3;
+  grid-column: 1/4;
+  
+}

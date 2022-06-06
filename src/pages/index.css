@@ -1,8 +1,0 @@
-@import url(../vendor/normalize/normalize.css);
-@import url(../blocks/page/page.css);
-
-@import url(../blocks/upper/__button-add/upper__button-add.css);
-@import url(../blocks/upper/__column/upper__column.css);
-@import url(../blocks/upper/__columns/upper__columns.css);
-@import url(../blocks/upper/upper.css);
-/* @import url(../blocks); */

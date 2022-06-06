@@ -1,5 +1,8 @@
 .upper__button-add {
   color: white;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
   font-size: 36px;
   cursor: pointer;
   width: 200px;

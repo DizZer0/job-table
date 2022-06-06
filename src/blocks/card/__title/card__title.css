@@ -1,0 +1,9 @@
+.card__title {
+  margin: 0;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 36px;
+  color: white;
+  grid-column: 1/3;
+}

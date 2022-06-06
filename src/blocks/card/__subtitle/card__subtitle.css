@@ -1,0 +1,10 @@
+.card__subtitle {
+  margin: 0;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  color: white;
+  font-size: 18px;
+  grid-row: 3/4;
+  grid-column: 1/4;
+}

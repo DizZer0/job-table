@@ -1,9 +1,13 @@
-.upper__columns {
+.columns {
   text-align: center;
   list-style: none;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
   display: flex;
   align-self: center;
   min-height: 100%;
   padding: 0;
   margin: 0;
 }
+
